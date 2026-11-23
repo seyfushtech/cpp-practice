@@ -15,3 +15,17 @@ C++ exercises covering programming fundamentals, problem-solving, and object-ori
 ```sh
 g++ basics/hello.cpp -o hello
 ./hello
+
+
+
+### 2. Create `basics/hello.cpp`
+
+Create a file named `basics/hello.cpp` and add:
+
+```cpp
+#include <iostream>
+
+int main() {
+    std::cout << "Hello, C++!\n";
+    return 0;
+}
