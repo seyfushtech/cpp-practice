@@ -1,0 +1,2 @@
+# cpp-practice
+C++ exercises, programming fundamentals, problem-solving, and OOP practice.
